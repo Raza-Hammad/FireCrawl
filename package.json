@@ -1,0 +1,16 @@
+{
+  "name": "firecrawl-workspace",
+  "version": "1.0.0",
+  "description": "Firecrawl Unified Website Documentation Scraper",
+  "type": "module",
+  "scripts": {
+    "scrape": "node site_scraper.js"
+  },
+  "keywords": [
+    "firecrawl",
+    "scraper",
+    "markdown",
+    "documentation"
+  ],
+  "license": "AGPL-3.0"
+}
