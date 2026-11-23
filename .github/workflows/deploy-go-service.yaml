@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@f548e57e544e1ff5a4c46bf1e1b8685f8e4a348a # main
 
       - name: Setup Blacksmith Builder
-        uses: useblacksmith/setup-docker-builder@e4c1c000c95f9cc255f72940e9c56bcbd1239436 # v1
+        uses: useblacksmith/setup-docker-builder@9657a6e02ca6445e6d6ce5ffaf370f4828dea50d # v1
 
       - name: "Login to GitHub Container Registry"
         uses: docker/login-action@c94ce9fb468520275223c153574b00df6fe4bcc9 # v3
